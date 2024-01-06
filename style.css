@@ -92,6 +92,12 @@ body {
     color: #0e4f1f;
 }
 
+/* If the outline becomes visible, just set it to none */
+
+.button:focus {
+    outline: none;
+}
+
 .main-header {
     background: #2ddf5c;
     width: 100%;
