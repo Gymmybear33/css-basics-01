@@ -66,3 +66,7 @@ main {
 #premium .package__title {
     color: #f5f2f2;
 }
+
+#premium .package__subtitle {
+    color: #d6d0d0;
+}
