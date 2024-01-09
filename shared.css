@@ -12,6 +12,8 @@ body {
     background-color: #19b84c;
     width: 100%;
     position: fixed;
+    top: 0;
+    left: 0;
     padding: 8px 16px;
     z-index: 1;
 }
