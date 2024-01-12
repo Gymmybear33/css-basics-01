@@ -22,6 +22,11 @@
   .testimonial__image {
     width: 100%;
     vertical-align: top;
+    /* filter: grayscale(100%); */
+    /* filter: brightness(60%); */
+    /* filter: blur(5px); */
+    /* filter: contrast(40%); */
+    /* filter: hue-rotate(90deg); */
   }
   
   .testimonial__info {
