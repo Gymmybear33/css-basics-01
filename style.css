@@ -51,10 +51,10 @@
     background: #d5ffdc;
     text-align: center;
     padding: 1rem;
-    margin: 0.5rem;
+    margin: 0.5rem 0;
     margin-bottom: 1rem;
     width: 100%;
-    vertical-align: middle;
+    /* vertical-align: middle; */
 }
 
 .plan--highlighted {
