@@ -91,3 +91,20 @@ main {
 #premium .package__subtitle {
     color: #d6d0d0;
 }
+
+@media (min-width: 40rem) {
+    main {
+      margin: 3rem auto;
+      max-width: 1500px;
+      /* margin: auto; */
+    }
+}
+
+@media (min-width: 1500px) {
+    .package {
+      border-left: 4px solid #0e4f1f;
+    }
+    #free {
+        border-right: 4px solid #0e4f1f;
+    }
+}
