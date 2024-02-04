@@ -51,17 +51,17 @@ main {
 }
 
 .package__info {
-    padding: 2rem;
+    padding: 1rem;
     border: 1px solid #0e4f1f;
-    /* font-size: 1.2rem; */
     color: #0e4f1f;
     background: white;
-    /* font-family: 'Roboto', sans-serif; */
+    font-size: 1.2rem;
+    /* font-family: 'Anonymous Pro', 'Roboto', sans-serif */
     /* font-weight: 400; */
     /* font-style: italic; */
     /* text-shadow: 2px 2px 7px lightgray; */
     /* ---This is the shorthand for font styling (the order MATTERS)--- */
-    font: 400 1.2rem 'Roboto', sans-serif;
+    /* font: 400 1.2rem 'Anonymous Pro', 'Roboto', sans-serif; */
     /* font-style font-variant font-weight font-size/line-height font-family */
 }
 
