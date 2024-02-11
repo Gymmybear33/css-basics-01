@@ -15,14 +15,14 @@ main {
     width: 60%;
     max-width: 40rem;
     box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3);
-    transform: skew(20deg);
+    transform: skew(10deg);
     overflow: hidden;
   }
 
   .testimonial__image {
     width: 100%;
     vertical-align: top;
-    transform: skew(-20deg) scale(1.4);
+    transform: skew(-10deg) scale(1.4);
     /* filter: grayscale(100%); */
     /* filter: brightness(60%); */
     /* filter: blur(5px); */
